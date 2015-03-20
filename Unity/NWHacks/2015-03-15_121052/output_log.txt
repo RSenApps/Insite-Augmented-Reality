@@ -1,0 +1,187 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\Vectrosity.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\Meta.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\Meta.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Managed\System.dll (this message is harmless)
+Camera not properly connected. Mouselook backup controls enabled: Right-click-hold to look around, WASD to move.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks;C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Ryan'
+OS-Version: 6.2.9200 () 0x300-0x1
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks.exe:nwhacks.exe (00390000), size: 16420864 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks.exe', fileVersion: 5.0.0.39095
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77B80000), size: 1499136 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.17668
+C:\Windows\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (757E0000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNEL32.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (76410000), size: 880640 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\KERNELBASE.dll', fileVersion: 6.3.9600.17415
+C:\Windows\system32\apphelp.dll:apphelp.dll (6FA30000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\apphelp.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (6DB70000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WS2_32.dll:WS2_32.dll (753A0000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\USER32.dll:USER32.dll (75F10000), size: 1388544 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USER32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (6FD80000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\ole32.dll:ole32.dll (75480000), size: 1212416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (75430000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHLWAPI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (75D20000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ADVAPI32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\GDI32.dll:GDI32.dll (76300000), size: 1105920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\SHELL32.dll:SHELL32.dll (76670000), size: 19578880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SHELL32.dll', fileVersion: 6.3.9600.17680
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (652D0000), size: 909312 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (74C00000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (75C70000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.17560
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (61200000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\IMM32.dll:IMM32.dll (76500000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (6F610000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (74AF0000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (6BB10000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\msvcrt.dll:msvcrt.dll (76220000), size: 798720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.17415
+C:\Windows\SYSTEM32\NSI.dll:NSI.dll (75720000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\RPCRT4.dll:RPCRT4.dll (760D0000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\combase.dll:combase.dll (75AF0000), size: 1560576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\combase.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (75730000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (63AA0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DDRAW.dll:DDRAW.dll (6D280000), size: 966656 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (74B10000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\MSCTF.dll:MSCTF.dll (76530000), size: 1122304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSCTF.dll', fileVersion: 6.3.9600.17664
+C:\Windows\SYSTEM32\WINNSI.DLL:WINNSI.DLL (74AC0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (75380000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (6D270000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (75E30000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (74A90000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (75370000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (75310000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\shcore.dll:shcore.dll (749B0000), size: 569344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17666
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Mono\mono.dll:mono.dll (10000000), size: 2289664 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Mono\mono.dll'
+C:\Windows\SYSTEM32\PSAPI.DLL:PSAPI.DLL (762F0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PSAPI.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (72540000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (75250000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.17415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (6EB60000), size: 970752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.3.9600.17415
+C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll:tiptsf.dll (6E4C0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll', fileVersion: 6.3.9600.17415
+c:\PROGRA~2\mcafee\SITEAD~1\saHook.dll:saHook.dll (6EC50000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'c:\PROGRA~2\mcafee\SITEAD~1\saHook.dll', fileVersion: 3.7.2.194
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (6EB40000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (501B0000), size: 1937408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (5D400000), size: 430080 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\dlumd11.dll:dlumd11.dll (6CE30000), size: 1069056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dlumd11.dll', fileVersion: 9.18.7.4
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (74AD0000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (6E370000), size: 1314816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\SETUPAPI.dll:SETUPAPI.dll (75930000), size: 1773568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SETUPAPI.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (74FC0000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\profapi.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\wtsapi32.dll:wtsapi32.dll (72470000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wtsapi32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\igd10iumd32.dll:igd10iumd32.dll (0F5A0000), size: 6983680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\igd10iumd32.dll', fileVersion: 10.18.10.3907
+C:\Windows\SYSTEM32\d3d10_1.dll:d3d10_1.dll (5D3D0000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10_1.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\bcrypt.dll:bcrypt.dll (74FD0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcrypt.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\ncrypt.dll:ncrypt.dll (6B150000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ncrypt.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\d3d10_1core.dll:d3d10_1core.dll (5D370000), size: 368640 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d10_1core.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\NTASN1.dll:NTASN1.dll (6B120000), size: 167936 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\NTASN1.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\igdusc32.dll:igdusc32.dll (6B2B0000), size: 8761344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\igdusc32.dll', fileVersion: 10.18.10.3907
+C:\Windows\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (5E6B0000), size: 339968 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MMDevAPI.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (513A0000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (6DA60000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (61810000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (5E710000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (6CF40000), size: 262144 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (61370000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (612B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\dsound.dll:dsound.dll (51270000), size: 528384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dsound.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\clbcatq.dll:clbcatq.dll (75DA0000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10530.17415
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9600.17415_none_a9ed7f470139b3c1\comctl32.dll:comctl32.dll (75040000), size: 2121728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9600.17415_none_a9ed7f470139b3c1\comctl32.dll', fileVersion: 6.10.9600.17415
+C:\Windows\SYSTEM32\oleacc.dll:oleacc.dll (6E680000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\oleacc.dll', fileVersion: 7.2.9600.17415
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0B400000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaVisionDLL.dll:MetaVisionDLL.dll (5C2C0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaVisionDLL.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MotionSensor.dll:MotionSensor.dll (77D30000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MotionSensor.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaMaster.dll:MetaMaster.dll (51340000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaMaster.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaSlave.dll:MetaSlave.dll (60FD0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaSlave.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Hands.dll:Hands.dll (0F070000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Hands.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\COMSlam.dll:COMSlam.dll (511A0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\COMSlam.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\ATMarkerTracker.dll:ATMarkerTracker.dll (77D10000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\ATMarkerTracker.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\CanvasTracker.dll:CanvasTracker.dll (0FF10000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\CanvasTracker.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\UnityDisplay.dll:UnityDisplay.dll (5DE80000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\UnityDisplay.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\RecordData.dll:RecordData.dll (5DAB0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\RecordData.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\boost_system-vc110-mt-1_55.dll:boost_system-vc110-mt-1_55.dll (5C2B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\boost_system-vc110-mt-1_55.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_core246.dll:opencv_core246.dll (0DE60000), size: 2158592 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_core246.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\SLAM.dll:SLAM.dll (0F4C0000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\SLAM.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\DepthSenseCamera.dll:DepthSenseCamera.dll (77CF0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\DepthSenseCamera.dll'
+C:\Windows\SYSTEM32\MSVCP110.dll:MSVCP110.dll (5DAF0000), size: 544768 (result: 0), SymType: 'PDB', PDB: 'C:\Windows\symbols\dll\msvcp110.i386.pdb', fileVersion: 11.0.51106.1
+C:\Windows\SYSTEM32\MSVCR110.dll:MSVCR110.dll (54440000), size: 876544 (result: 0), SymType: 'PDB', PDB: 'C:\Windows\symbols\dll\msvcr110.i386.pdb', fileVersion: 11.0.51106.1
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Sensors.dll:Sensors.dll (50000000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Sensors.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Common.dll:Common.dll (03610000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Common.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Utils.dll:Utils.dll (0F400000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Utils.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Playback.dll:Playback.dll (03630000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Playback.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\ImageSource.dll:ImageSource.dll (03650000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\ImageSource.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_highgui246.dll:opencv_highgui246.dll (0E070000), size: 2220032 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_highgui246.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_imgproc246.dll:opencv_imgproc246.dll (0E290000), size: 2531328 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_imgproc246.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_legacy246.dll:opencv_legacy246.dll (0B420000), size: 1302528 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_legacy246.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_video246.dll:opencv_video246.dll (0A500000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_video246.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaSLAMPP.dll:MetaSLAMPP.dll (0F300000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaSLAMPP.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaPTAM.dll:MetaPTAM.dll (0B3E0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaPTAM.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaCOM.dll:MetaCOM.dll (0B560000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaCOM.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_calib3d246.dll:opencv_calib3d246.dll (0E510000), size: 827392 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_calib3d246.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_contrib246.dll:opencv_contrib246.dll (0E5F0000), size: 1216512 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_contrib246.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Meta1ClientServer.dll:Meta1ClientServer.dll (0E720000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\Meta1ClientServer.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaThreading.dll:MetaThreading.dll (0FEB0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\MetaThreading.dll'
+C:\Program Files (x86)\Meta\DepthSenseSDK\bin\DepthSense.dll:DepthSense.dll (0E7A0000), size: 1396736 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\DepthSenseSDK\bin\DepthSense.dll', fileVersion: 1.5.0.1637
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\AudioSensor.dll:AudioSensor.dll (0E900000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\AudioSensor.dll'
+C:\Windows\SYSTEM32\MSVFW32.dll:MSVFW32.dll (611D0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVFW32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\AVIFIL32.dll:AVIFIL32.dll (615B0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVIFIL32.dll', fileVersion: 6.3.9600.17415
+C:\Windows\SYSTEM32\AVICAP32.dll:AVICAP32.dll (1B3B0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVICAP32.dll', fileVersion: 6.3.9600.17415
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_flann246.dll:opencv_flann246.dll (0E990000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_flann246.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_features2d246.dll:opencv_features2d246.dll (0EA20000), size: 774144 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_features2d246.dll'
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_ml246.dll:opencv_ml246.dll (0EAE0000), size: 528384 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_ml246.dll'
+C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\slampp.dll:slampp.dll (0EB90000), size: 622592 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Ryan\Documents\GitHub\NWHacks\Unity\NWHacks\nwhacks_Data\Plugins\slampp.dll', fileVersion: 1.0.1.0
+C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_objdetect246.dll:opencv_objdetect246.dll (0FC50000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\Meta SDK\Libraries\opencv\opencv_objdetect246.dll'
+C:\Program Files (x86)\Meta\DepthSenseSDK\bin\DepthSensePlugins.dll:DepthSensePlugins.dll (0ECA0000), size: 659456 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\DepthSenseSDK\bin\DepthSensePlugins.dll', fileVersion: 1.5.0.1637
+C:\Program Files (x86)\Meta\DepthSenseSDK\bin\turbojpeg.dll:turbojpeg.dll (0ED50000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Meta\DepthSenseSDK\bin\turbojpeg.dll'
+C:\Windows\SYSTEM32\MSVCP100.dll:MSVCP100.dll (72590000), size: 430080 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCP100.dll', fileVersion: 10.0.40219.325
+C:\Windows\SYSTEM32\MSVCR100.dll:MSVCR100.dll (74B40000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVCR100.dll', fileVersion: 10.0.40219.325
+C:\Windows\system32\napinsp.dll:napinsp.dll (6F6D0000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\napinsp.dll', fileVersion: 6.3.9600.17415
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (6F6B0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\pnrpnsp.dll', fileVersion: 6.3.9600.17415
+C:\Windows\system32\NLAapi.dll:NLAapi.dll (6F690000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NLAapi.dll', fileVersion: 6.3.9600.17415
+C:\Windows\System32\winrnr.dll:winrnr.dll (6F600000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\winrnr.dll', fileVersion: 6.3.9600.17415
+C:\Windows\system32\wshbth.dll:wshbth.dll (6F5F0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wshbth.dll', fileVersion: 6.3.9600.17415
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (6F540000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 6.3.9600.17415
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (6F530000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 6.3.9600.17415
+
+========== OUTPUTING STACK TRACE ==================
+
+5C2C702C (MetaVisionDLL) SetTargetLock
+04932015 (Mono JIT Code) (wrapper managed-to-native) Meta.CanvasTracker:SetTargetLockDLL (bool)
+04931FC8 (Mono JIT Code) Meta.CanvasTracker:UnlockTarget ()
+04931E56 (Mono JIT Code) Meta.CanvasInteractionController:Update ()
+048EF541 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+100F04CE (mono) mono_set_defaults
+1005D7CB (mono) mono_runtime_invoke
+004E410E (nwhacks) scripting_gchandle_get_target
+0058D30A (nwhacks) ScriptingArguments::AddString
+0058CFF5 (nwhacks) ScriptingArguments::AddString
+004D37EA (nwhacks) MeshFilter::MightContainPPtr
+004D5318 (nwhacks) GetMonoBehaviourInConstructor
+0055338B (nwhacks) UserList::AddUser
+005EA951 (nwhacks) PlayerMainWndProc
+005EC3A0 (nwhacks) PlayerWinMain
+00921D98 (nwhacks) RectT<int>::GetBottom
+00958DDF (nwhacks) RectT<int>::GetBottom
+757F7C04 (KERNEL32) BaseThreadInitThunk
+77BDB54F (ntdll) RtlInitializeExceptionChain
+77BDB51A (ntdll) RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
